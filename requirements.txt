@@ -1,0 +1,34 @@
+# Streamlit для веб-приложения
+streamlit==1.41.1
+
+# Библиотеки для работы с данными
+pandas==2.2.3
+numpy==1.23.5
+
+# Временные ряды и прогнозирование
+
+darts==0.16.0
+
+# Визуализация
+plotly==5.15.0
+matplotlib==3.10.0
+
+# Работа с OpenAI API
+openai==0.27.2
+
+# LangChain (опционально для DataFrame Agent)
+langchain==0.3.13
+tiktoken==0.4.0
+
+# Работа с Excel
+openpyxl==3.1.2
+xlsxwriter==3.2.0
+
+# Прочие библиотеки (опционально)
+scikit-learn==1.6.0
+python-dotenv==1.0.1
+
+joblib~=1.4.2
+statsmodels==0.14.4
+pmdarima~=2.0.3
+prophet~=1.1.6
